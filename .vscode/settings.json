@@ -1,0 +1,15 @@
+{
+  "python.pythonPath": "C:\\Users\\rob\\Anaconda3\\python.exe",
+  "search.exclude": {
+    "**/.ipynb_checkpoints": true,
+    "**/*.sqlite": true,
+    "**/bin": true,
+    "**/env": true,
+    "**/obj": true,
+    "**/venv": true
+  },
+  "files.exclude": {
+    "**/.ipynb_checkpoints": true,
+    "**/*.sqlite": true
+  }
+}
